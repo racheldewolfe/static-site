@@ -1,0 +1,3 @@
+# Create a .gitignore file which ignores folders named ".idea" and files called "secret-passwords.txt"
+.idea
+secret-password.txt
